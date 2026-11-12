@@ -1,0 +1,14 @@
+Rappoort 
+ +Mandat
+   	expediteur
+		@cin
+		@nom
+		@prenom
+		@ville
+   	destinataire 
+		@cin
+		@nom
+		@ville
+     @num
+     @date
+     @montant 
